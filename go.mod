@@ -1,4 +1,4 @@
-module github.com/DenisPopkov/protos
+module github.com/DenisPopkov/IT-Navigator-Proto
 
 go 1.22.1
 
